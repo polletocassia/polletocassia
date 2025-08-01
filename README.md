@@ -19,8 +19,8 @@ I have experience with **PHP** and **JavaScript** and am constantly seeking prof
     <img src="https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=fff&style=for-the-badge" alt="CodeIgniter Badge" />
     <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge" alt="Laravel Badge" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript Badge" />
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff&style=for-the-badge" alt="React />
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL Badge" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge" />
     <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff&style=for-the-badge" alt="CSS3 Badge" />
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge" alt="Bootstrap Badge" />
   </p>

@@ -36,8 +36,9 @@ I have experience with **PHP** and **JavaScript** and am constantly seeking prof
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=polletocassia&show_icons=true&theme=dark&hide_title=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polletocassia&layout=compact&theme=dark" height="150" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=polletocassia&theme=github_dark" alt="Top languages by repo badge"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=polletocassia&theme=github_dark" alt="Top languages by commit badge"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=polletocassia&theme=github_dark" alt="Profile details badge"/>
 </p>
 
 ---

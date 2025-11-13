@@ -21,6 +21,7 @@ I have experience with **PHP** and **JavaScript** and am constantly seeking prof
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript Badge" />
     <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff&style=for-the-badge" alt="CSS3 Badge" />
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge" alt="Bootstrap Badge" />
+    <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff&style=for-the-badge" />
   </p>
   
 - **Tools & Platforms:** 

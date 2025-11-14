@@ -1,4 +1,4 @@
-<h1 align="center">Cássia Polleto</h1>
+<h1 align="center">Cássia Regina Fracaro Polleto</h1>
 <p align="center">Full Stack Developer</p>
 
 ---

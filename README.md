@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 
-I am a Software Engineering student at UNIJUÍ with a technical background in IT. I currently work as a Full Stack Developer at Hidroenergia, focusing on designing and implementing robust, secure, and scalable web solutions that address real-world needs.
+I am a Software Engineering student at UNIJUÍ with a technical background in IT. I currently work as a Full Stack Developer at Hidroenergia, focusing on designing and implementing robust, secure, and scalable web solutions that address real world needs.
 
 I have experience with PHP and JavaScript, working across both backend and frontend development. I am continuously improving my skills and applying best development practices to deliver efficient, high quality solutions.
 
